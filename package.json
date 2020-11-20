@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "blog_etalon_2020",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
